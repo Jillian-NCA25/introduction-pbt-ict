@@ -1,0 +1,7 @@
+basic.showString("MY NAME IS JILLIAN!")
+basic.showArrow(ArrowNames.East)
+basic.showIcon(IconNames.Heart)
+basic.showString("IM A SHY PERSON AND I LIKE THE COLOR RED AND GREEN!")
+basic.showString("MY HOBBIES ARE USUALLY DRAWING AND PLAYING!")
+basic.showString("I DISLIKE DRY PEOPLE,STRAWBERRY AND INSECTS")
+basic.showString("BUT I LIKE ENERGETIC PEOPLE,CHOCOLATE&VANILLA AND CATS")
